@@ -1,4 +1,4 @@
-# Optimization-of-Shank-link-of-quadrupled-legged-robot
+# Optimization-of-Shank-link-of-quadruped-legged-robot
 This project was part of the work I did during my research internship at Stoch Lab, RBCCPS, IISc under [Professor Shishir N. Y. Kolathaya](http://www.shishirny.com/). I analyzed the shank using Ansys Structural and reduced its weight by 16% using TPMS structures like the gyroid. Mass reduction is an excellent way to have reasonable control in robotics as it also reduces the inertia of legs. I tried to reduce mass by using biomimicry, inserting some nature-inspired structures in the shank's central portion, and covering it with thick plates. Butterfly wings have inspired this design with beams enclosing gyroids. Butterfly wings require a high strength-to-weight ratio, so we decided to mimic them. 
 
 
